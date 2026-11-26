@@ -23,7 +23,7 @@ Business / Systems Analyst and Java / Python engineer with years in banking, ret
  ## What I do
 - **Business analysis:** requirements gathering, process mapping, BPMN workflows, UAT, OAT, stakeholder coordination
 - **Banking and payments:** worked on a regional payment system upgrade to ISO 20022 at Bank of China (Hong Kong)
-- **Engineering:** Java / Spring Boot, Python / FastAPI, Kafka, PostgreSQL, Oracle, Angular, Vue.js, Nuxt.js
+- **Engineering:** Java / Spring Boot, Python / FastAPI, Kafka, PostgreSQL, Oracle, Angular, Ionic, Vue.js, Nuxt.js
 - **DevOps and delivery:** Maven, GitLab, Nexus, SonarQube, Podman, ZStack (Chinese OpenStack alternative), Linux (Red Hat)
 
 ---
@@ -39,6 +39,7 @@ Business / Systems Analyst and Java / Python engineer with years in banking, ret
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" alt="Angular" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" alt="Ionic" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" alt="Nuxt.js" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>
