@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 # Hiya, I'm Daniel Lam 👋
 
----
 
 ## 🚀 About Me
 Business / Systems Analyst and Java / Python engineer with years in banking, retail and public-sector IT. I'm based in Sale, Greater Manchester, with full right to work in the UK (no sponsorship needed), and I'm open to roles in Greater Manchester or remote. I enjoy exploring Agentic AI and evolving system architecture.
@@ -22,9 +21,9 @@ Business / Systems Analyst and Java / Python engineer with years in banking, ret
 ---
 
  ## What I do
-- **Business analysis:** requirements gathering, process mapping, BPMN workflows, UAT, stakeholder coordination
+- **Business analysis:** requirements gathering, process mapping, BPMN workflows, UAT, OAT, stakeholder coordination
 - **Banking and payments:** worked on a regional payment system upgrade to ISO 20022 at Bank of China (Hong Kong)
-- **Engineering:** Java / Spring Boot, Python / FastAPI, Kafka, PostgreSQL, Oracle, Vue.js, Nuxt.js
+- **Engineering:** Java / Spring Boot, Python / FastAPI, Kafka, PostgreSQL, Oracle, Angular, Vue.js, Nuxt.js
 - **DevOps and delivery:** Maven, GitLab, Nexus, SonarQube, Podman, ZStack (Chinese OpenStack alternative), Linux (Red Hat)
 
 ---
@@ -57,4 +56,4 @@ Also daily: Debezium, Nexus, ZStack, Red Hat Process Automation Manager (BPMN2).
 ## Looking for
 Business Analyst, Systems Analyst, Java, Python or DevOps roles, ideally in banking and financial services.
 - Implemented ERP and Business Intelligence solutions for restaurant, bakery, and retail sectors  
-- Administered enterprise portals, IT asset management, and change management
+- Administered enterprise portals, CMS, IT asset management, and change management
