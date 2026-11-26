@@ -25,7 +25,7 @@ Business / Systems Analyst and Java / Python engineer with years in banking, ret
 - **Business analysis:** requirements gathering, process mapping, BPMN workflows, UAT, stakeholder coordination
 - **Banking and payments:** worked on a regional payment system upgrade to ISO 20022 at Bank of China (Hong Kong)
 - **Engineering:** Java / Spring Boot, Python / FastAPI, Kafka, PostgreSQL, Oracle, Vue.js, Nuxt.js
-- **DevOps and delivery:** Maven, GitLab, Nexus, SonarQube, Podman, ZStack, Linux (Red Hat)
+- **DevOps and delivery:** Maven, GitLab, Nexus, SonarQube, Podman, ZStack (Chinese OpenStack alternative), Linux (Red Hat)
 
 ---
 
